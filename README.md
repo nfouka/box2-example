@@ -8,4 +8,4 @@ To build it, simply run:
 $ php box.phar build
 ```
 
-A new file called `example.phar` will be available.
+A new file called `example.phar` will be available
